@@ -1,0 +1,46 @@
+body{
+    margin: 25px;
+}
+.my-dog{
+
+  width: 30%;
+  height: 75%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 55px;
+  padding:50px;
+  position: absolute;
+  font-family: chalkduster;
+
+}
+.polaroid{
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.animation{
+ animation-duration: 3s;
+ animation-iteration-count: 1;
+ animation-direction: normal;
+ animation-timing-function: ease;
+}
+
+.container{
+    display:inline;
+
+
+
+}
+.container>div{
+    margin: 10px;
+    padding: 20px;
+    font-family: chalkduster;
+    text-shadow: 24px 11px 4px rgba(0,0,0,0.56);
+
+
+}
+.bella{
+    display:inline;
+    margin-bottom: 55px;
+    position: absolute;
+}

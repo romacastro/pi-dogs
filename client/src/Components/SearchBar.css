@@ -1,0 +1,28 @@
+.searchBar{
+    position: relative;
+
+
+}
+.searchBar>input{
+    padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+
+}
+.searchBar>button{
+    position:center;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: rgb(67, 131, 128);
+    font-size: 17px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(158, 209, 137);
+    cursor: pointer;
+    font-family: chalkduster;
+}
+.searchBar>button:hover{
+    background:rgb(145, 201, 138);
+}

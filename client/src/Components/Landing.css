@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(243, 233, 221);
+    background-attachment: fixed;
+}
+.image-landingpage{
+    background-image:url('./pics/bella3.JPG');
+    border: rgb(100, 99, 99) solid;
+    border-radius: 5px ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    margin-left:150px;
+    margin-right: 150px;
+    padding: 150px;
+}
+.botonIngresar{
+    color: rgb(56, 55, 54);
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: chalkduster;
+}
+.botonIngresar>button:hover{
+    background: #ccc;
+    font-family: chalkduster;
+}
+
+
+h1{
+    color:rgb(78, 74, 74);
+    border-style:solid black;
+
+}
+.landingPageApp{
+    color:royalblue;
+}
